@@ -1,4 +1,10 @@
+<div align="center">
+  
 # 线性代数可视化
+
+**简体中文**  | [English](/README.md)  | [繁體中文](/readme/README.zh_TW.md)
+
+</div>
 
 2023-2024 学年第一学期，中国石油大学（北京）人工智能学院线性代数（全英文）课程可视化编程作业，用 Python 完成。作业内容详见 image 文件夹，内容已命名。
 
